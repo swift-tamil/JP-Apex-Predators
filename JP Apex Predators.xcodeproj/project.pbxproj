@@ -11,6 +11,7 @@
 		394F0AA82AF03E36001A248A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 394F0AA72AF03E36001A248A /* ContentView.swift */; };
 		394F0AAA2AF03E37001A248A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 394F0AA92AF03E37001A248A /* Assets.xcassets */; };
 		394F0AAD2AF03E37001A248A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 394F0AAC2AF03E37001A248A /* Preview Assets.xcassets */; };
+		39D0D9F62AF043BC007392FC /* jpapexpredators.json in Resources */ = {isa = PBXBuildFile; fileRef = 39D0D9F52AF043BC007392FC /* jpapexpredators.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		394F0AA72AF03E36001A248A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		394F0AA92AF03E37001A248A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		394F0AAC2AF03E37001A248A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		39D0D9F52AF043BC007392FC /* jpapexpredators.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = jpapexpredators.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 				394F0AA52AF03E36001A248A /* JP_Apex_PredatorsApp.swift */,
 				394F0AA72AF03E36001A248A /* ContentView.swift */,
 				394F0AA92AF03E37001A248A /* Assets.xcassets */,
+				39D0D9F52AF043BC007392FC /* jpapexpredators.json */,
 				394F0AAB2AF03E37001A248A /* Preview Content */,
 			);
 			path = "JP Apex Predators";
@@ -127,6 +130,7 @@
 			files = (
 				394F0AAD2AF03E37001A248A /* Preview Assets.xcassets in Resources */,
 				394F0AAA2AF03E37001A248A /* Assets.xcassets in Resources */,
+				39D0D9F62AF043BC007392FC /* jpapexpredators.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
